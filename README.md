@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Graduando em **Ciências da Computação** pela UFCG;
+Graduando em **Ciências da Computação** pela Universidade Federal de Campina Grande (UFCG);
 
 
 Atualmente estudando aplicações para **Python** e iniciando meus estudos em **RTOS**;

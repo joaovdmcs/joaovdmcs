@@ -21,7 +21,7 @@ Graduando em **Ciências da Computação** pela UFCG;
 Atualmente estudando aplicações para **Python** e iniciando meus estudos em **RTOS**;
 
 
-Possuo experiência em: **Java**,**Javascript**, **Python (2 e 3)** e **Lua**;
+Possuo experiência em: **Java**, **Javascript**, **Python (2 e 3)** e **Lua**;
 
 
 Em breve: **C**,**C++** e **C#**;

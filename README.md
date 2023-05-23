@@ -36,4 +36,4 @@ Contato: joao.vitor.souza@ccc.ufcg.edu.br;
 English speaking too!
 
 
-<img align='center' src="https://i.ibb.co/T8wNzCk/ZOE.png" width="230">
+<img align='center' src="" width="230">

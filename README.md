@@ -30,10 +30,10 @@ Também em: **SQLs**(Em especifico MySQL com MariaDB)
 Em breve: **Kotlin**, **PHP**, **C**,**C++** e **C#**;
 
 
-Contato: joao.vitor.souza@ccc.ufcg.edu.br;
+Contato aqui! --> joao.vitor.souza@ccc.ufcg.edu.br;
 
 
-English speaking too!
+**English speaking too!**
 
 
 <img align='center' src="https://i.ibb.co/6vw6xF3/thumb-1920-662428.jpg">

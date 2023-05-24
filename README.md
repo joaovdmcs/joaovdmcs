@@ -27,7 +27,7 @@ Possuo experiência em: **Java**, **Python (2 e 3)**, **Javascript**, **HTML**, 
 Também em: **SQLs** (Em especifico MySQL com MariaDB);
 
 
-Em breve: **Kotlin**, **PHP**, **C**,**C++** e **C#**;
+Em breve: **Kotlin**, **PHP**, **C**, **C++** e **C#**;
 
 
 Contato aqui! --> joao.vitor.souza@ccc.ufcg.edu.br;

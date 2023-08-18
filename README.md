@@ -21,13 +21,13 @@ Graduando em **Ciências da Computação** pela Universidade Federal de Campina 
 Atualmente estudando aplicações para **Python** e iniciando meus estudos em **RTOS**;
 
 
-Possuo experiência em: **Java**, **Python (2 e 3)**, **Javascript**, **HTML**, **CSS** e **Lua**;
+Possuo experiência em: **Java**, **Python (2 e 3)**, **C**/*C++*, **Javascript**, **HTML**, **CSS** e **Lua**;
 
 
 Também em: **SQLs** (Em especifico MySQL com MariaDB);
 
 
-Em breve: **Kotlin**, **PHP**, **C**, **C++** e **C#**;
+Em breve: **Kotlin**, **PHP** e **C#**;
 
 
 Contato aqui! --> joao.vitor.souza@ccc.ufcg.edu.br;
